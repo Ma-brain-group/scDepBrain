@@ -1,0 +1,1 @@
+This file contains scripts and codes for running scPagwas inference for the discovery dataset and five independent replication datasets based on Howard et al. MDD GWAS (n = 500,199 European individuals) and PGC phase 3 MDD GWAS (Cell 2025; more than 1 million European and trans-ancestry individuals).
