@@ -92,7 +92,7 @@ sparse-aware row variance + `findInterval`-based empirical *P*).
 If you reproduce or extend this pipeline, please cite:
 
 - Ma, Y. *et al.* (2023). Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data. *Cell Genomics* 3, 100383.
--  PGC MDD (2025). Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies. *Cell*, in press.
+-  PGC MDD (2025). Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies. *Cell*, 188(3):640-652.e9.
 
 ## Software environment
 
