@@ -2,7 +2,7 @@
 
 Analysis scripts and reproducibility notebooks accompanying:
 
-> **Ma *et al.*** Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder. *under consideration*, 2026.
+> **Ma *et al.*** Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder. ***Under Consideration***, 2026.
 
 ## scDepBrain
 a online-resource for querying MDD-relevant cell types and subpopulations
@@ -81,18 +81,17 @@ dataset of 160,222 nuclei from **GSE213982** (37 MDD cases vs 35 controls).
 
 ### Single-cell input
 
-- **Discovery integrated atlas**: 309,983 nuclei from 109 donors across 14 brain
-  regions and 20 neuronal subtypes (see manuscript Methods).
-- **Replication**: GSE213982 — 160,222 nuclei from 37 MDD cases and 35
-  unaffected controls (Maitra *et al.* 2023 *Nat Commun*).
+- **Discovery integrated atlas**: 327,639 nuclei across 14 brain
+  regions and 14 neuronal subtypes (see manuscript Methods).
+- **Replication**: To enable replication and assess generalizability, we further curated five independent atlases—adult human brain, developing human brain, mouse brain, human cerebral organoids and human MDD case–control brain (Supplementary Figs. 10–14). These resources included 3,369,219 adult-human brain cells across 10 regions; 599,221 developing-human brain cells spanning gestational week 6 to postnatal month 8; 197,026 mouse-brain cells across five regions; 396,049 human cerebral organoid cells from 25 organoids; and 160,222 nuclei from 37 MDD patients and 34 controls (Supplementary Tables 2–3). In total, the discovery and replication resources comprised 5,049,376 single-cell and single-nucleus transcriptomes from 343 individuals or biological samples, represented across 1,599 region-by-sample profiles and 34 independent studies (Supplementary Fig. 1; Supplementary Table 4), providing a broad, multi-context reference for downstream genetic analyses.
 
 ### GWAS resources
 
 | GWAS | Cases | Controls | *N*_eff | SNPs | Genome | Reference |
 |---|---|---|---|---|---|---|
 | Howard 2019 (HW) | 246,363 | 561,190 | — | 8,481,297 | GRCh37 | Howard *et al.* 2019 *Nat Neurosci* |
-| PGC MDD 2025 EUR | 412,305 | 1,588,397 | 1,152,656 | 7,363,302 | GRCh37 | Adams *et al.* 2024 *Cell* |
-| PGC MDD 2025 trans-ancestry (DIV) | 537,363 | 2,061,567 | 1,487,075 | 5,918,521 | GRCh37 | Adams *et al.* 2024 *Cell* |
+| PGC MDD 2025 EUR | 412,305 | 1,588,397 | 1,152,656 | 7,363,302 | GRCh37 | PGC MDD 2025 *Cell* |
+| PGC MDD 2025 trans-ancestry (DIV) | 537,363 | 2,061,567 | 1,487,075 | 5,918,521 | GRCh37 | PGC MDD 2025 *Cell* |
 
 LDSC-SEG was not applied to the trans-ancestry GWAS owing to LD-structure
 mismatch with the 1000 Genomes Phase 3 European reference panel.
@@ -147,7 +146,7 @@ To facilitate exploration and reuse of the integrated single-cell atlas and MDD 
 # Citation
 If you use this code or the accompanying scDepBrain resource, please cite:
 
-> Ma et al. ***Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder***, 2026
+> Ma et al. ***Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder***, ***Under consideration*** 2026
 
 
 
