@@ -9,8 +9,8 @@ manuscript.
 
 | GWAS | n cases | n controls | N_eff | n SNPs | Genome | Reference |
 |---|---|---|---|---|---|---|
-| **PGC MDD 2025 European** (EUR) | 412,305 | 1,588,397 | 1,152,656 | 7,363,302 | GRCh37 | Adams et al. Cell 2024 |
-| **PGC MDD 2025 trans-ancestry** (DIV) | 537,363 | 2,061,567 | 1,487,075 | 5,918,521 | GRCh37 | Adams et al. Cell 2024 |
+| **PGC MDD 2025 European** (EUR) | 412,305 | 1,588,397 | 1,152,656 | 7,363,302 | GRCh37 |  PGC MDD. Cell 2025 |
+| **PGC MDD 2025 trans-ancestry** (DIV) | 537,363 | 2,061,567 | 1,487,075 | 5,918,521 | GRCh37 | PGC MDD. Cell 2025 |
 
 ## Folder layout
 
@@ -91,10 +91,8 @@ sparse-aware row variance + `findInterval`-based empirical *P*).
 
 If you reproduce or extend this pipeline, please cite:
 
-- Ma, Y. *et al.* (2023). scPagwas: integration of GWAS and single-cell
-  transcriptomics. *Cell Genomics* 3, 100383.
-- Adams, M. J. *et al.* (2024). Genome-wide association study meta-analysis of
-  major depressive disorder. *Cell*, in press.
+- Ma, Y. *et al.* (2023). Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data. *Cell Genomics* 3, 100383.
+-  PGC MDD (2025). Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies. *Cell*, in press.
 
 ## Software environment
 
