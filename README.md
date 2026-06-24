@@ -25,7 +25,7 @@ The project implements four orthogonal GWAS cell-type enrichment methods
 (**scPagwas**, **MAGMA-CellTyping**, partitioned **LDSC-SEG** and **scDRS**)
 applied to:
 
-- **Howard *et al.* 2019** European-ancestry MDD GWAS (*n* cases = 246,363, *n* controls = 561,190)
+- **Howard *et al.* 2019** European-ancestry MDD GWAS (*n* cases = 170,756, *n* controls = 329,443)
 - **PGC MDD 2025 European-ancestry** GWAS (*n* cases = 412,305, *n* controls = 1,588,397; *N*_eff = 1,152,656)
 - **PGC MDD 2025 trans-ancestry** GWAS (*n* cases = 537,363, *n* controls = 2,061,567; *N*_eff = 1,487,075)
 
@@ -84,7 +84,7 @@ single-cell datasets—adult human brain, developing human brain, mouse brain, h
 
 | GWAS | Cases | Controls | *N*_eff | SNPs | Genome | Reference |
 |---|---|---|---|---|---|---|
-| Howard 2019 (HW) | 246,363 | 561,190 | — | 8,481,297 | GRCh37 | Howard *et al.* 2019 *Nat Neurosci* |
+| Howard 2019 (HW) | 170,756 | 329,443| — | 8,481,297 | GRCh37 | Howard *et al.* 2019 *Nat Neurosci* |
 | PGC MDD 2025 EUR | 412,305 | 1,588,397 | 1,152,656 | 7,363,302 | GRCh37 | PGC MDD 2025 *Cell* |
 | PGC MDD 2025 trans-ancestry (DIV) | 537,363 | 2,061,567 | 1,487,075 | 5,918,521 | GRCh37 | PGC MDD 2025 *Cell* |
 
