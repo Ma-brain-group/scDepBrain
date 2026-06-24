@@ -44,9 +44,7 @@ single-cell datasets—adult human brain, developing human brain, mouse brain, h
 - **Primary motor cortex (M1C)** shows the highest single-cell MDD trait-relevance
   score, an effect that persists within the PVALB⁺ inhibitory neuron
   subpopulation (i.e. not a cell-composition artefact).
-- **CNNM2 mRNA upregulation** in MDD PVALB⁺ inhibitory neurons is independently
-  replicated by donor-level pseudobulk DESeq2 in GSE213982
-  (log₂FC = +0.21, FDR = 0.018, *n* = 37 cases vs 35 controls).
+- **CNNM2 risk gene** in MDD PVALB⁺ inhibitory neurons is highly validated acorss different layers of analyses.
 
 ---
 
