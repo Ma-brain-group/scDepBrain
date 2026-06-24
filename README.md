@@ -2,7 +2,7 @@
 a online-resource for querying MDD-relevant cell types and subpopulations
 
 ## Overview of current study
-![Study design](https://github.com/mayunlong89/scRBP/blob/main/Examples/Figure_1.png)
+![Study design](https://github.com/Ma-brain-group/scDepBrain/blob/main/Figures/Figure%201.png)
 
 
 
