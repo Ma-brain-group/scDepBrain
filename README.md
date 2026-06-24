@@ -2,7 +2,7 @@
 
 Analysis scripts and reproducibility notebooks accompanying:
 
-> **Ma *et al.*** Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder. ***Under Consideration***, 2026.
+> **Ma *et al.***, Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder. ***Under Consideration***, 2026.
 
 ## scDepBrain
 a online-resource for querying MDD-relevant cell types and subpopulations
