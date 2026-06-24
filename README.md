@@ -33,8 +33,8 @@ applied to:
 - **PGC MDD 2025 trans-ancestry** GWAS (*n* cases = 537,363, *n* controls = 2,061,567; *N*_eff = 1,487,075)
 
 across an integrated discovery atlas of **309,983 nuclei from 109 donors** spanning
-**14 anatomical brain regions** and **20 neuronal subtypes**, plus a replication
-dataset of 160,222 nuclei from **GSE213982** (37 MDD cases vs 35 controls).
+**14 anatomical brain regions** and **20 neuronal subtypes**, plus five indepedent replication
+single-cell datasets—adult human brain, developing human brain, mouse brain, human cerebral organoids and human MDD case–control brain.
 
 ### Highlights
 
