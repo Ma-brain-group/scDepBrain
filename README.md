@@ -13,10 +13,7 @@ a online-resource for querying MDD-relevant cell types and subpopulations
 
 ## Overview
 
-This repository contains the full analysis pipeline used to integrate multi-method
-GWAS cell-type prioritization with single-cell transcriptomics across three
-independent MDD GWAS resources, and to validate the genetic-prioritization
-results in an external case-control single-cell cohort.
+We designed an integrative discovery-to-validation framework spanning atlas construction, genetically informed cellular and gene prioritization, experimental validation and community resource development. 
 
 ## Workflow
 ![Study design](https://github.com/Ma-brain-group/scDepBrain/blob/main/Figures/Figure%201.png)
