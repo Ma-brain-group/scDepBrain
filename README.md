@@ -1,6 +1,6 @@
 ## Single-cell genetic mapping of MDD-associated brain cell types
 
-Analysis scripts, intermediate outputs and reproducibility notebooks accompanying:
+Analysis scripts and reproducibility notebooks accompanying:
 
 > **Ma *et al.*** Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder. *under consideration*, 2026.
 
