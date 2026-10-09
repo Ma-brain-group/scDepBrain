@@ -141,7 +141,7 @@ To facilitate exploration and reuse of the integrated single-cell atlas and MDD 
 # Citation
 If you use this code or the accompanying scDepBrain resource, please cite:
 
-> Ma et al. ***Single-cell genetic mapping links motor-cortical PVALB⁺ inhibitory circuitry to major depressive disorder***, ***Under consideration*** 2026
+> Ma et al. ***Brain-wide single-cell genetic mapping localizes major depressive disorder risk to motor cortex PVALB+ interneurons***, ***Genome Biology*** 2026 (Under revision).
 
 
 
